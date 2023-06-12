@@ -1,0 +1,38 @@
+[
+    {
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "year": "1994",
+      "genre": "Drama",
+      "image": "shawsankredemption.jpg"
+    },
+    {
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "year": "1972",
+      "genre": "Crime, Drama",
+      "image": "thegodfather.jpg"
+    },
+    {
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "year": "1994",
+      "genre": "Crime, Drama",
+      "image": "pulpfiction.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "year": "2008",
+      "genre": "Action, Crime, Drama",
+      "image": "thedarkknight.jpg"
+    },
+    {
+      "title": "Fight Club",
+      "director": "David Fincher",
+      "year": "1999",
+      "genre": "Drama",
+      "image": "fightclub.jpg"
+    }
+  ]
+  
